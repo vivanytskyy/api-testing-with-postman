@@ -2,7 +2,7 @@
 
 ### Postman Collections for testing APIs
 
-This repository holds a series of **postman collections** for some open APIs.<br><br>
+This repository holds a series of **postman collections** for some open APIs.<br>
 These examples have been created for use with the [Postman](https://www.postman.com/product/what-is-postman/).<br> 
 
 List of collections:
